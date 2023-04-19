@@ -8,8 +8,8 @@
 - github：[https://github.com/SunnyHaze/scu-thesis-template](https://github.com/SunnyHaze/scu-thesis-template) 
 ## 简介 
 - 如题，本仓库中含有一个word模板，如果你不熟悉从github上下载，也可以使用如下的链接：
-  - 百度网盘：[链接](https://pan.baidu.com/s/1BZYxLTkfT6kM6M5RG2QCmQ) 
-  - 提取码：q4qg
+  - 百度网盘：[链接](https://pan.baidu.com/s/1D1475ahiXUfH4FWmtvh66Q)
+  - 提取码：9h8f
 - 此外，一位软件学院的帅哥学长还提供了一份软院教务老师制作的毕业论文指导模板，该模板偏向工程开发方向，有需要的同学也可以及时取用:
   - [四川大学本科毕业设计论文模板(软件学院).docx](四川大学本科毕业设计论文模板(软件学院).docx)
 - 学校具体对于插入图片、引用、表格等等仍有具体的要求，可以参考官方的PDF内容进行撰写：
