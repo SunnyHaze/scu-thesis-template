@@ -1,4 +1,9 @@
 # 四川大学本科毕业论文 Word模板（scu-thesis-template）
+
+## 重要更新，请奔走相告！！！
+- 4.19日更新，根据学校对于毕设的最新要求修改了docx模板：
+  - 添加了英文摘要及对应格式
+  - 对于中文的一级标题和二级标题，必须居中，之前没有注意，这里给各位使用者说声抱歉！
 ## 仓库链接：
 - github：[https://github.com/SunnyHaze/scu-thesis-template](https://github.com/SunnyHaze/scu-thesis-template) 
 ## 简介 
