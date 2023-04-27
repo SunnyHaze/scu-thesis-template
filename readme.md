@@ -5,7 +5,10 @@
   - 添加了英文摘要及对应格式
   - 对于中文的一级标题和二级标题，必须居中，之前没有注意，这里给各位使用者说声抱歉！
 ## 仓库链接：
-- github：[https://github.com/SunnyHaze/scu-thesis-template](https://github.com/SunnyHaze/scu-thesis-template) 
+- 本Word模板仓库链接：[https://github.com/SunnyHaze/scu-thesis-template](https://github.com/SunnyHaze/scu-thesis-template) 
+- 前辈大佬提供的Latex模板：[https://github.com/fatestigma/scuthesis](https://github.com/fatestigma/scuthesis)
+- 另一个前辈大佬提供的Latex模板：[https://github.com/dahakawang/scu_thesis_template](https://github.com/dahakawang/scu_thesis_template)
+- 另一个大佬提供的学位论文Latex模板：[https://github.com/cuiao/SCU_ThesisDissertation_LaTeXTemplate](https://github.com/cuiao/SCU_ThesisDissertation_LaTeXTemplate)
 ## 简介 
 - 如题，本仓库中含有一个word模板，如果你不熟悉从github上下载，也可以使用如下的链接：
   - 百度网盘：[链接](https://pan.baidu.com/s/1D1475ahiXUfH4FWmtvh66Q)
