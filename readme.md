@@ -9,6 +9,7 @@
 - 前辈大佬提供的Latex模板：[https://github.com/fatestigma/scuthesis](https://github.com/fatestigma/scuthesis)
 - 另一个前辈大佬提供的Latex模板：[https://github.com/dahakawang/scu_thesis_template](https://github.com/dahakawang/scu_thesis_template)
 - 另一个大佬提供的学位论文Latex模板：[https://github.com/cuiao/SCU_ThesisDissertation_LaTeXTemplate](https://github.com/cuiao/SCU_ThesisDissertation_LaTeXTemplate)
+- 一个本科小登提供的本科毕业论文（设计）的Latex模板：[https://github.com/DavidZHY/SCU-Undergraduate-Thesis-Template](https://github.com/DavidZHY/SCU-Undergraduate-Thesis-Template)
 ## 简介 
 - 如题，本仓库中含有一个word模板，如果你不熟悉从github上下载，也可以使用如下的链接：
   - 百度网盘：[链接](https://pan.baidu.com/s/1D1475ahiXUfH4FWmtvh66Q)
